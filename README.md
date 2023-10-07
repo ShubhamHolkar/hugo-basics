@@ -9,3 +9,6 @@ https://gohugo.io/
 Build the first small blog site using Hugo.
 I have done this on Windows which has lots of steps than MacOS or Linux. 
  
+### Run project
+hugo serve
+
